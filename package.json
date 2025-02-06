@@ -19,6 +19,7 @@
     "eslint": "9.19.0",
     "eslint-config-next": "15.1.6",
     "next": "15.1.6",
+    "nookies": "^2.5.2",
     "phosphor-react": "^1.4.1",
     "react": "19.0.0",
     "react-dom": "19.0.0",
@@ -28,6 +29,7 @@
   },
   "devDependencies": {
     "@rocketseat/eslint-config": "^2.2.2",
+    "@types/cookie": "^1.0.0",
     "prisma": "^6.3.1"
   }
 }
